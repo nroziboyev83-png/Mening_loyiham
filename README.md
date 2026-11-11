@@ -31,3 +31,20 @@ Laqabi: Los Blancos.
 Mashhur futbolchilari: Cristiano Ronaldo, Zinedine Zidane, Luka Modrić va boshqa yulduzlar.
 Asosiy ranglari: oq.
 <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg" alt="Real Madrid Logo" width="400">
+<h1> REAL MADRID</h1>
+<h3>NEXT 8 MATCHES</h3>
+
+<div class="match">22 NOV — Real Madrid 🆚 Celta</div>
+<div class="match">25 NOV — Real Madrid 🆚 PSV</div>
+<div class="match">29 NOV — Real Madrid 🆚 Alaves</div>
+<div class="match">02 DEC — Sociedad 🆚 Real Madrid</div>
+<div class="match">07 DEC — Athletic 🆚 Real Madrid</div>
+<div class="match">10 DEC — Arsenal 🆚 Real Madrid</div>
+<div class="match">14 DEC — Real Madrid 🆚 Osasuna</div>
+<div class="match">21 DEC — Deportivo 🆚 Real Madrid</div>
+
+<h2>HALA MADRID! 👑</h2>
+</div>
+
+</body>
+</html>
